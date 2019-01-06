@@ -1,0 +1,41 @@
+[{
+    "id": 1,
+    "login": "JohnDirt",
+    "firstName": "John",
+    "lastName": "Dirt",
+    "password": "123456",
+    "role": "R"
+  },
+  {
+    "id": 2,
+    "login": "WillSmit",
+    "firstName": "Will",
+    "lastName": "Smit",
+    "password": "123456",
+    "role": "R"
+  },
+  {
+    "id": 3,
+    "login": "PollLlop",
+    "firstName": "Poll",
+    "lastName": "Llop",
+    "password": "123456",
+    "role": "RE"
+  },
+  {
+    "id": 4,
+    "login": "Hannastreet",
+    "firstName": "Hanna",
+    "lastName": "street",
+    "password": "123456",
+    "role": "RE"
+  },
+  {
+    "id": 5,
+    "login": "Mr.x",
+    "firstName": "Mr.x",
+    "lastName": "noName",
+    "password": "123456",
+    "role": "P"
+  }
+]

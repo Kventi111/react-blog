@@ -1,0 +1,22 @@
+.header {
+  height: 70px;
+  background-color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.header__grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 70px;
+  align-items: center;
+}
+
+.header__logo{
+  height: 100%;
+  line-height: 70px;
+}
+
+.header__logo {
+  text-transform: uppercase;
+}

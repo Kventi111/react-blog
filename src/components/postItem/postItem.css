@@ -1,0 +1,13 @@
+.posts__item h1 {
+	color: #000;
+	margin-bottom: 10px;
+}
+
+.posts__item i {
+	color: rgba(0,0,0,.5);
+	margin: 0 10px 0 0;
+}
+
+.posts__item a {
+	margin: 0 10px 0 0;
+}
